@@ -9,4 +9,4 @@
 </head>
 <body>
     <?php include('navigation.php') ?>
-    
+    <?php esc($title) ?>
