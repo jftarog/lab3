@@ -5,7 +5,8 @@ namespace App\Models;
 use CodeIgniter\Model;
 
 class NewsModel extends Model {
-    protected $table = 'news';
+    // protected $table = 'news';
+    protected $table = 'jftarog_news';
     public function getNews($slug = false) {
         if ($slug === false) {
             return $this->findAll();
