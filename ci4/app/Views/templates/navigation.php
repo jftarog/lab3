@@ -41,9 +41,8 @@
 
 <div class="navbar"><ul>
    <li><a href="home" class="<?php active('home'); ?>">Home</a></li>
-   <!-- <li><a href="resources" class="<?php //active('resources'); ?>">Resources</a></li> -->
-   <!-- <li><a href="lessons" class="<?php //active('lessons'); ?>">W3Schools Lessons</a></li> -->
+   <li><a href="resources" class="<?php active('resources'); ?>">Resources</a></li>
+   <li><a href="lessons" class="<?php active('lessons'); ?>">W3Schools Lessons</a></li>
    <!-- <li><a href="validation_complete" class="<?php //active('validation_complete'); ?>">Forms</a></li> -->
    <!-- <li><a href="guests" class="<?php //active('guests'); ?>">Guests</a></li> -->
-   <li><a href="about" class="<?php active('about'); ?>">About</a></li>
 </ul></div>

@@ -49,5 +49,5 @@
         // console.log(testFunction());
         const d = new Date();
         document.getElementById("demo").innerHTML = d.toDateString();
-        testFunction();
+        // testFunction();
     </script>
