@@ -1,3 +1,8 @@
+<a href="news/create"
+class="button" style="margin-left: 0px">
+    Create a new post
+</a>
+
 <h2><?= esc($title) ?></h2>
 
 <?php if (! empty($news) && is_array($news)): ?>
