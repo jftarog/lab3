@@ -40,10 +40,10 @@
 </style>
 
 <div class="navbar"><ul>
-   <li><a href="home" class="<?php active('home'); ?>">Home</a></li>
-   <li><a href="resources" class="<?php active('resources'); ?>">Resources</a></li>
-   <li><a href="lessons" class="<?php active('lessons'); ?>">W3Schools Lessons</a></li>
-   <li><a href="news" class="<?php active('news'); ?>">News</a></li>
+   <li><a href="<?php echo base_url() ?>/home" class="<?php active('home'); ?>">Home</a></li>
+   <li><a href="<?php echo base_url() ?>/resources" class="<?php active('resources'); ?>">Resources</a></li>
+   <li><a href="<?php echo base_url() ?>/lessons" class="<?php active('lessons'); ?>">W3Schools Lessons</a></li>
+   <li><a href="<?php echo base_url() ?>/news" class="<?php active('news'); ?>">News</a></li>
    <!-- <li><a href="validation_complete" class="<?php //active('validation_complete'); ?>">Forms</a></li> -->
    <!-- <li><a href="guests" class="<?php //active('guests'); ?>">Guests</a></li> -->
 </ul></div>
