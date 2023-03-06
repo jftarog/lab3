@@ -45,5 +45,5 @@
    <li><a href="<?php echo base_url() ?>/lessons" class="<?php active('lessons'); ?>">W3Schools Lessons</a></li>
    <li><a href="<?php echo base_url() ?>/news" class="<?php active('news'); ?>">News</a></li>
    <!-- <li><a href="validation_complete" class="<?php //active('validation_complete'); ?>">Forms</a></li> -->
-   <!-- <li><a href="guests" class="<?php //active('guests'); ?>">Guests</a></li> -->
+   <li><a href="<?php echo base_url() ?>/guest" class="<?php active('guest'); ?>">Guests</a></li>
 </ul></div>

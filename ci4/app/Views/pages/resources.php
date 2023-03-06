@@ -34,3 +34,5 @@
 <p>The <a style="color:skyblue;">Aonahara Icon</a> <img src="images/aonahara.ico" style="height:auto;"> was made by the team's artists.</p>
 
 <p>The <a style="color:skyblue;">"Bonjour" image</a> <img src="images/bonjour.png"> is from the <a href="https://www.reddit.com/r/Hololive/">Hololive subreddit</a>.</p>
+<p>The <a style="color:skyblue;">background image</a> <img src="images/scenery.jpg" alt="background image"> is made by <a href="https://www.artstation.com/qinbl">Qinbl</a>.</p>
+<p>The icons are from <a href="https://ionic.io/ionicons">Ionicons</a></p>

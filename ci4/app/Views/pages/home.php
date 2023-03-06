@@ -1,18 +1,18 @@
 <style>
-        div.flip {
-            margin: auto;
-        }
-        a.flip {
-            text-align: center;
-            width: 200px;
-            height: 20px;
-        }
-        a.button {
-            color: white;
-            border: solid 2px yellowgreen;
-            border-radius: 5px;
-            cursor: pointer; 
-        }
+    div.flip {
+        margin: auto;
+    }
+    a.flip {
+        text-align: center;
+        width: 200px;
+        height: 20px;
+    }
+    a.button {
+        color: white;
+        border: solid 2px yellowgreen;
+        border-radius: 5px;
+        cursor: pointer; 
+    }
 </style>
 
 <h1 id="myHeader">Welcome to my website!</h1>

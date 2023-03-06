@@ -17,3 +17,5 @@ class NewsModel extends Model {
         return $this->where(['slug' => $slug])->first();
     }
 }
+
+?>
