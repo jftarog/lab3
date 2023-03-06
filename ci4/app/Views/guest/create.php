@@ -36,8 +36,11 @@
         font-size: 1em;
         pointer-events: none;
     }
-    textarea:valid ~ label, input:valid ~ label {
+    input:valid ~ label {
         top:-10px;
+    }
+    textarea:valid ~ label {
+        top:-20px;
     }
     .inputbox input {
         width: 100%;
