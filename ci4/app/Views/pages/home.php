@@ -41,8 +41,6 @@
 <a href="#" class="button" style="visibility: hidden;">Back to top</a>
 
 <script>
-    // console.log(testFunction());
     const d = new Date();
     document.getElementById("demo").innerHTML = d.toDateString();
-    // testFunction();
 </script>

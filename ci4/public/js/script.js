@@ -3,6 +3,7 @@ function onClick() {
     document.getElementById("myHeader").style.display = "none";
     // document.getElementsByClassName("flip")[0].style.display = "none";
     document.getElementsByClassName("button")[1].style.visibility = "visible";
+    document.getElementsByClassName("button")[1].style.display = "inline-block";
     // --- Was testing some code, I am leaving this here as a reference for the future: ---
     // for (let i = 0; i< flipElement.length; ++i){
     //     flipElement[i].style.display = "none";
